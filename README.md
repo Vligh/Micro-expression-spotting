@@ -1,6 +1,7 @@
 # Micro-expression-spotting
 Farneback 文件，其实是用的TVL1
-在qq邮箱里有，2022.10.2这天：切割面部局部区域
+
+在qq邮箱里有shape_predictor_68_face_landmarks.dat文件，2022.10.2这天：切割面部局部区域
 ### Farneback文件
 
 **TVL1.py**：是计算光流信息的，并且割开了眼睛区域。
